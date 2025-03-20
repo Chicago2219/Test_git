@@ -7,6 +7,6 @@
 5. git diff - разница между последним коммитом и нынешней версии проекта
 6. git show hash - выводит полную информаицю о коммите 
 7. git checkout main/master - вернет Вас в нынешнее состояние репозитория
-8. git rebase - 
+8. git rebase - изменение порядка коммитов
 9. git chery-pick - 
-10. git merge name_branch - 
+10. git merge name_branch - слияние ветки name_branch в ветку, в которой сейчас находитесь
